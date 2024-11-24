@@ -1,10 +1,10 @@
 #include<stdio.h>
 
 int main(){
-// B1 khai bao bien integer, negativeNumber, positiveNumber
+// B1 khai bao bien n, negativeNumber, positiveNumber
 	int n, negativeNumber, positiveNumber;
 	
-// B2 Nhap du lieu cho bien integer
+// B2 Nhap du lieu cho bien n
 	printf("Hay nhap vao mot so nguyen bat ki: ");
 	scanf("%d", &n);
 	
